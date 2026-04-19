@@ -1,7 +1,6 @@
 <img src="https://github.com/user-attachments/assets/61458ce1-cf5f-411e-a6ce-bc1eb1e0d5d3" width="420" alt="i love shockstars 2004" align="right">
 <div align="center">
 <!-- Language used here is a mix of LaTEX and html. It's a pain don't even bother -->
- <!--intro begin-->
  <table>
   <td>
    <div align="center">
